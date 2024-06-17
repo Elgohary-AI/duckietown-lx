@@ -4,6 +4,7 @@
 
 # **Duckietown Learning Experiences (LX) - MOOC Exercises**
 
+
 # About this repository
 
 This is a Duckietown learning experiences repository containing activites compatible with the Duckietown infrastructure. Visit us at the 
